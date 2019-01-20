@@ -1,0 +1,17 @@
+.pixColor{
+    color:rgb(115, 255, 0);
+    text-align: center;
+        
+    
+  }
+
+.title {
+    color:yellow;
+    font: 25;
+    border: groove;
+    padding: 10
+}
+
+.dot{
+   border:dotted;
+}
